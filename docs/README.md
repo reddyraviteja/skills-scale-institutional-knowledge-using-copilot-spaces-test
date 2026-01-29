@@ -8,7 +8,7 @@ OctoAcme follows a structured project lifecycle that begins with project initiat
  
 Roles and responsibilities are clearly defined across project managers, product owners, engineering leads, and stakeholders. Decision-making authority and escalation paths are documented to ensure timely resolution of blockers and alignment across teams.
  
-Communication is managed through regular status updates, risk reviews, and cross-functional checkpoints. Risks are proactively identified, tracked, and communicated, ensuring transparency and informed decision-making throughout the project lifecycle.
+Communication is managed through regular status updates, risk reviews, and cross-functional checkpoints. Risks are proactively identified, tracked, and communicated, ensuring transparency and informed decision-making throughout the project lifecycle
  
 Quality assurance is embedded through reviews, acceptance criteria, deployment validations, and retrospectives, enabling continuous improvement and knowledge sharing across projects.
  
